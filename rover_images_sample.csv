@@ -1,0 +1,5 @@
+rover_name,earth_date,camera_name,image_url,caption
+Perseverance,2024-01-01,Navcam,https://mars.nasa.gov/system/resources/detail_files/25737_PIA23764-320.jpg,Surface view
+Curiosity,2024-01-02,Mastcam,https://mars.nasa.gov/system/resources/detail_files/25039_PIA25275-320.jpg,Rock view
+Spirit,2004-01-10,Navcam,https://mars.nasa.gov/mer/gallery/all/2/n/001/2N128999275EFF0211P1985L0M1-BR.JPG,Spirit navigation image
+Opportunity,2004-02-01,Pancam,https://mars.nasa.gov/mer/gallery/all/1/p/012/1P129187188EFF0200P2213L7M1-BR.JPG,Opportunity panorama
