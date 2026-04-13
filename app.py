@@ -4,7 +4,7 @@ import pandas as pd
 st.set_page_config(page_title="Mars Rover Data Explorer", layout="wide")
 
 # Load data
-df = pd.read_csv("data/rover_images_sample.csv")
+df = pd.read_csv("rover_images_sample.csv")
 df["earth_date"] = pd.to_datetime(df["earth_date"])
 
 # Title
